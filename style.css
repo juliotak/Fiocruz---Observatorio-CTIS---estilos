@@ -90,9 +90,10 @@ ul {list-style: disc; list-style-position: inside;}
 .caption span {width: 100%;padding: 5px 10px;font-style: italic;margin-bottom: 20px;color:#666;}
 
 
-
-
-
+/* tables */
+table {width: 100%;}
+th, td {padding: .4rem;border-bottom: 1px solid #cacaca;}
+th {font-size: 1rem;font-weight: 700;border-top: 2px solid #cacaca;border-bottom: 2px solid #cacaca;text-align: left;}
 
 
 
